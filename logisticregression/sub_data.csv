@@ -1,0 +1,700 @@
+Duration,Start station number,Start station,End station number,End station,Bike Number,Member Type
+950,31293,31st & Water St NW,31080,Lee Hwy & N Scott St,W23491,Member
+310,31401,14th St & Spring Rd NW,31124,14th & Irving St NW,W23478,Member
+243,31615,6th & H St NE,31623,Columbus Circle / Union Station,W20202,Member
+518,31615,6th & H St NE,31622,13th & D St NE,W21223,Member
+500,31615,6th & H St NE,31622,13th & D St NE,W00509,Member
+93,31081,Duke St & John Carlyle St,31048,King St Metro South,W00920,Member
+307,31616,3rd & H St NE,31614,11th & H St NE,W21595,Member
+3289,31205,21st & I St NW,31249,Jefferson Memorial,W22741,Member
+339,31114,18th St & Wyoming Ave NW,31202,14th & R St NW,W01129,Member
+440,31509,New Jersey Ave & R St NW,31280,11th & S St NW,W23024,Member
+950,31643,1st & D St SE,31265,5th St & Massachusetts Ave NW,W22905,Member
+3097,31205,21st & I St NW,31249,Jefferson Memorial,W00068,Casual
+71,31098,King St Metro North / Cameron St,31048,King St Metro South,W00873,Member
+175,31037,Ballston Metro / N Stuart & 9th St N,31919,Carlin Springs Rd & N Thomas St,W21139,Member
+1785,31623,Columbus Circle / Union Station,31803,Good Hope Rd & 14th St SE,W21047,Casual
+706,31202,14th & R St NW,31212,21st & M St NW,W21030,Member
+2522,31640,Maryland Ave & E St NE,31641,2nd St & Massachusetts Ave NE,W21850,Casual
+613,31126,11th & Girard St NW,31506,1st & Rhode Island Ave NW,W01035,Member
+713,31286,11th & O St NW,31251,12th & L St NW,W20605,Casual
+750,31228,8th & H St NW,31203,14th & Rhode Island Ave NW,W00376,Member
+2490,31640,Maryland Ave & E St NE,31641,2nd St & Massachusetts Ave NE,W20904,Casual
+703,31228,8th & H St NW,31203,14th & Rhode Island Ave NW,W23035,Casual
+1712,31608,8th & Eye St SE / Barracks Row,31608,8th & Eye St SE / Barracks Row,W01351,Casual
+1694,31608,8th & Eye St SE / Barracks Row,31608,8th & Eye St SE / Barracks Row,W20510,Casual
+534,31098,King St Metro North / Cameron St,31085,Mount Vernon Ave & E Nelson Ave,W21768,Member
+2381,31640,Maryland Ave & E St NE,31641,2nd St & Massachusetts Ave NE,W23135,Casual
+446,31214,17th & Corcoran St NW,31286,11th & O St NW,W23326,Member
+102,31283,14th & L St NW,31251,12th & L St NW,W21003,Member
+6792,31280,11th & S St NW,31506,1st & Rhode Island Ave NW,W22054,Member
+240,31100,19th St & Pennsylvania Ave NW,31233,17th & K St NW / Farragut Square,W20159,Member
+343,31111,10th & U St NW,31116,California St & Florida Ave NW,W23489,Member
+1081,31251,12th & L St NW,31514,Hamlin & 7th St NE,W20492,Member
+350,31203,14th & Rhode Island Ave NW,31600,5th & K St NW,W22304,Member
+345,31605,3rd & D St SE,31647,7th St & Massachusetts Ave NE,W23445,Member
+739,31216,14th St & New York Ave NW,31281,8th & O St NW,W22973,Member
+771,31104,Adams Mill & Columbia Rd NW,31401,14th St & Spring Rd NW,W01334,Member
+442,31067,Columbia Pike & S Walter Reed Dr,31060,S Arlington Mill Dr & Campbell Ave,W22880,Casual
+1731,31609,Maine Ave & 7th St SW,31645,6th & K St NE,W01288,Member
+270,31281,8th & O St NW,31228,8th & H St NW,W00941,Member
+652,31237,25th St & Pennsylvania Ave NW,31298,15th & M St NW,W00390,Member
+640,31237,25th St & Pennsylvania Ave NW,31298,15th & M St NW,W00628,Member
+404,31202,14th & R St NW,31116,California St & Florida Ave NW,W22348,Member
+1219,31113,Columbia Rd & Belmont St NW,31295,Potomac & M St NW,W21333,Casual
+377,31202,14th & R St NW,31116,California St & Florida Ave NW,W22709,Member
+499,31024,Virginia Square Metro / N Monroe St & 9th St N,31022,Clarendon Metro / Wilson Blvd & N Highland St,W01483,Casual
+369,31111,10th & U St NW,31126,11th & Girard St NW,W21298,Member
+1637,31317,Wisconsin Ave & Ingomar St NW,31306,39th & Calvert St NW / Stoddert,W00400,Casual
+449,31500,4th & W St NE,31519,1st & O St NW,W20645,Member
+404,31648,Potomac Ave & Half St SW,31609,Maine Ave & 7th St SW,W00258,Member
+175,31229,New Hampshire Ave & T St NW,31114,18th St & Wyoming Ave NW,W01145,Member
+325,31114,18th St & Wyoming Ave NW,31101,14th & V St NW,W21612,Member
+549,31114,18th St & Wyoming Ave NW,31246,M St & Pennsylvania Ave NW,W00383,Casual
+227,31102,11th & Kenyon St NW,31126,11th & Girard St NW,W21466,Member
+1656,31114,18th St & Wyoming Ave NW,31294,7th & E St SW,W21710,Member
+2846,31223,Convention Center / 7th & M St NW,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W00710,Casual
+348,31126,11th & Girard St NW,31602,Park Rd & Holmead Pl NW,W21298,Member
+277,32064,Amherst Ave & Prichard Rd,32022,Dennis & Amherst Ave,W20111,Member
+260,31506,1st & Rhode Island Ave NW,31505,Eckington Pl & Q St NE,W23465,Member
+301,31124,14th & Irving St NW,31406,14th & Upshur St NW,W00874,Member
+723,31401,14th St & Spring Rd NW,31268,12th & U St NW,W21046,Member
+554,31110,20th St & Florida Ave NW,31203,14th & Rhode Island Ave NW,W20903,Member
+1310,31294,7th & E St SW,31275,New Hampshire Ave & 24th St NW,W00853,Casual
+351,31229,New Hampshire Ave & T St NW,31276,15th & L St NW,W21314,Member
+611,31233,17th & K St NW / Farragut Square,31200,Massachusetts Ave & Dupont Circle NW,W22701,Member
+787,31262,11th & F St NW,31125,15th & W St NW,W20869,Member
+489,31114,18th St & Wyoming Ave NW,31126,11th & Girard St NW,W21481,Member
+958,31280,11th & S St NW,31522,2nd St & Seaton Pl NE,W23024,Member
+572,31200,Massachusetts Ave & Dupont Circle NW,31114,18th St & Wyoming Ave NW,W00434,Casual
+223,31267,17th St & Massachusetts Ave NW,31203,14th & Rhode Island Ave NW,W22086,Member
+776,31200,Massachusetts Ave & Dupont Circle NW,31101,14th & V St NW,W01400,Casual
+925,31109,7th & T St NW,31615,6th & H St NE,W22077,Member
+362,31200,Massachusetts Ave & Dupont Circle NW,31101,14th & V St NW,W00295,Casual
+1222,31641,2nd St & Massachusetts Ave NE,31522,2nd St & Seaton Pl NE,W00793,Member
+373,31200,Massachusetts Ave & Dupont Circle NW,31101,14th & V St NW,W00594,Casual
+906,31641,2nd St & Massachusetts Ave NE,31265,5th St & Massachusetts Ave NW,W23105,Member
+540,31023,Fairfax Dr & Wilson Blvd,31038,Glebe Rd & 11th St N,W21962,Member
+525,31200,Massachusetts Ave & Dupont Circle NW,31251,12th & L St NW,W00102,Member
+137,31244,4th & E St SW,31218,L'Enfant Plaza / 7th & C St SW,W22225,Member
+413,31401,14th St & Spring Rd NW,31102,11th & Kenyon St NW,W22567,Member
+554,31602,Park Rd & Holmead Pl NW,31126,11th & Girard St NW,W21298,Member
+265,31111,10th & U St NW,31119,14th & Belmont St NW,W21089,Member
+333,31127,22nd & H St NW,31255,24th & N St NW,W20239,Member
+865,31285,22nd & P ST NW,31201,15th & P St NW,W22305,Member
+745,31106,Calvert & Biltmore St NW,31236,37th & O St NW / Georgetown University,W21574,Casual
+588,31317,Wisconsin Ave & Ingomar St NW,31318,Connecticut Ave & Yuma St NW,W21113,Member
+564,31600,5th & K St NW,31200,Massachusetts Ave & Dupont Circle NW,W22304,Member
+479,31214,17th & Corcoran St NW,31111,10th & U St NW,W00199,Member
+216,31203,14th & Rhode Island Ave NW,31283,14th & L St NW,W00376,Member
+1876,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31102,11th & Kenyon St NW,W22646,Casual
+380,31239,Rhode Island & Connecticut Ave NW,31266,11th & M St NW,W20728,Member
+368,31239,Rhode Island & Connecticut Ave NW,31266,11th & M St NW,W23439,Member
+218,31202,14th & R St NW,31268,12th & U St NW,W01129,Member
+878,31110,20th St & Florida Ave NW,31015,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,W21110,Member
+512,31114,18th St & Wyoming Ave NW,31202,14th & R St NW,W00858,Member
+232,31276,15th & L St NW,31251,12th & L St NW,W21314,Member
+261,31271,Constitution Ave & 2nd St NW/DOL,31244,4th & E St SW,W21798,Member
+391,31119,14th & Belmont St NW,31102,11th & Kenyon St NW,W22056,Member
+523,31124,14th & Irving St NW,31109,7th & T St NW,W20109,Member
+549,31116,California St & Florida Ave NW,31109,7th & T St NW,W23489,Member
+572,31203,14th & Rhode Island Ave NW,31223,Convention Center / 7th & M St NW,W20903,Member
+590,31229,New Hampshire Ave & T St NW,31201,15th & P St NW,W21133,Member
+439,31104,Adams Mill & Columbia Rd NW,31107,Lamont & Mt Pleasant NW,W21698,Member
+907,31905,Kennebec St & 11th St N,31035,N Quincy St & Glebe Rd,W00840,Member
+409,31104,Adams Mill & Columbia Rd NW,31107,Lamont & Mt Pleasant NW,W01214,Member
+776,31614,11th & H St NE,31506,1st & Rhode Island Ave NW,W22448,Member
+495,31251,12th & L St NW,31109,7th & T St NW,W21003,Member
+631,31120,10th & Florida Ave NW,31107,Lamont & Mt Pleasant NW,W00402,Member
+931,31203,14th & Rhode Island Ave NW,31213,17th & K St NW,W01030,Casual
+781,31283,14th & L St NW,31244,4th & E St SW,W00376,Casual
+352,31200,Massachusetts Ave & Dupont Circle NW,31113,Columbia Rd & Belmont St NW,W21334,Member
+1834,31646,Maine Ave & 9th St SW,31103,16th & Harvard St NW,W21351,Member
+214,31229,New Hampshire Ave & T St NW,31110,20th St & Florida Ave NW,W23460,Casual
+954,31646,Maine Ave & 9th St SW,31269,3rd St & Pennsylvania Ave SE,W01357,Member
+353,31400,Georgia & New Hampshire Ave NW,31602,Park Rd & Holmead Pl NW,W20444,Member
+2511,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31267,17th St & Massachusetts Ave NW,W01049,Member
+671,31203,14th & Rhode Island Ave NW,31213,17th & K St NW,W23035,Casual
+440,31214,17th & Corcoran St NW,31251,12th & L St NW,W21812,Member
+2465,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31267,17th St & Massachusetts Ave NW,W22782,Casual
+409,31276,15th & L St NW,31221,18th & M St NW,W21360,Casual
+2440,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31267,17th St & Massachusetts Ave NW,W20392,Member
+313,31633,Independence Ave & L'Enfant Plaza SW/DOE,31646,Maine Ave & 9th St SW,W23048,Member
+230,31281,8th & O St NW,31266,11th & M St NW,W20058,Member
+2609,31200,Massachusetts Ave & Dupont Circle NW,31611,13th & H St NE,W22701,Member
+382,31205,21st & I St NW,31128,23rd & M St NW,W22545,Casual
+1020,31015,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,31053,Columbia Pike & S Courthouse Rd,W21110,Member
+4398,31026,Washington Blvd & 10th St N,31272,Washington & Independence Ave SW/HHS,W21306,Casual
+463,31200,Massachusetts Ave & Dupont Circle NW,31101,14th & V St NW,W01234,Casual
+972,31107,Lamont & Mt Pleasant NW,31107,Lamont & Mt Pleasant NW,W21829,Member
+1962,31807,Pleasant St & MLK Ave SE,31817,1st & S Capitol St SE / Oxon Run Trail,W22143,Casual
+1919,31807,Pleasant St & MLK Ave SE,31817,1st & S Capitol St SE / Oxon Run Trail,W23243,Casual
+1710,31917,N Lynn St & Fairfax Dr,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W21092,Member
+210,31104,Adams Mill & Columbia Rd NW,31121,Calvert St & Woodley Pl NW,W22883,Member
+968,31228,8th & H St NW,31400,Georgia & New Hampshire Ave NW,W21823,Casual
+539,31307,3000 Connecticut Ave NW / National Zoo,31313,Connecticut Ave & Tilden St NW,W22863,Member
+490,31307,3000 Connecticut Ave NW / National Zoo,31313,Connecticut Ave & Tilden St NW,W01454,Member
+713,31265,5th St & Massachusetts Ave NW,31298,15th & M St NW,W21341,Member
+520,31401,14th St & Spring Rd NW,31103,16th & Harvard St NW,W01301,Member
+514,31401,14th St & Spring Rd NW,31103,16th & Harvard St NW,W01334,Member
+1229,31291,Vermont Ave & I St NW,31257,22nd & I St NW / Foggy Bottom,W20350,Member
+1229,31291,Vermont Ave & I St NW,31257,22nd & I St NW / Foggy Bottom,W21649,Member
+1256,31200,Massachusetts Ave & Dupont Circle NW,31641,2nd St & Massachusetts Ave NE,W22304,Member
+752,31215,Georgetown Harbor / 30th St NW,31203,14th & Rhode Island Ave NW,W21412,Member
+3107,31208,M St & New Jersey Ave SE,31223,Convention Center / 7th & M St NW,W20613,Member
+3066,31208,M St & New Jersey Ave SE,31223,Convention Center / 7th & M St NW,W00889,Member
+2502,31258,Lincoln Memorial,31235,19th St & Constitution Ave NW,W00349,Casual
+3030,31208,M St & New Jersey Ave SE,31223,Convention Center / 7th & M St NW,W21729,Casual
+2373,31258,Lincoln Memorial,31235,19th St & Constitution Ave NW,W22581,Casual
+2322,31258,Lincoln Memorial,31235,19th St & Constitution Ave NW,W00341,Casual
+401,31268,12th & U St NW,31286,11th & O St NW,W23459,Member
+215,31647,7th St & Massachusetts Ave NE,31615,6th & H St NE,W22842,Member
+302,31042,Market Square / King St & Royal St,31044,King St & Patrick St,W21585,Member
+744,31200,Massachusetts Ave & Dupont Circle NW,31111,10th & U St NW,W23150,Member
+807,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31612,D St & Maryland Ave NE,W22592,Member
+768,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31612,D St & Maryland Ave NE,W20511,Member
+7556,31619,Lincoln Park / 13th & East Capitol St NE ,31619,Lincoln Park / 13th & East Capitol St NE ,W23038,Casual
+222,31278,18th & R St NW,31114,18th St & Wyoming Ave NW,W21948,Member
+644,31023,Fairfax Dr & Wilson Blvd,31037,Ballston Metro / N Stuart & 9th St N,W20251,Casual
+282,31202,14th & R St NW,31251,12th & L St NW,W21290,Member
+837,31111,10th & U St NW,31291,Vermont Ave & I St NW,W00199,Member
+551,31102,11th & Kenyon St NW,31406,14th & Upshur St NW,W22567,Member
+334,31201,15th & P St NW,31110,20th St & Florida Ave NW,W00387,Member
+7401,31619,Lincoln Park / 13th & East Capitol St NE ,31619,Lincoln Park / 13th & East Capitol St NE ,W20733,Casual
+7383,31619,Lincoln Park / 13th & East Capitol St NE ,31619,Lincoln Park / 13th & East Capitol St NE ,W22576,Casual
+447,31626,15th St & Massachusetts Ave SE,31611,13th & H St NE,W20185,Casual
+5402,31288,4th St & Madison Dr NW,31290,17th St & Independence Ave SW,W23187,Member
+5397,31288,4th St & Madison Dr NW,31290,17th St & Independence Ave SW,W00734,Casual
+452,31102,11th & Kenyon St NW,31406,14th & Upshur St NW,W01451,Casual
+1087,31268,12th & U St NW,31643,1st & D St SE,W21502,Member
+239,31506,1st & Rhode Island Ave NW,31109,7th & T St NW,W22448,Member
+316,31093,21st St N & N Pierce St,31014,Lynn & 19th St North,W21618,Casual
+306,31093,21st St N & N Pierce St,31014,Lynn & 19th St North,W21859,Casual
+744,31609,Maine Ave & 7th St SW,31634,3rd & Tingey St SE,W23458,Member
+609,31114,18th St & Wyoming Ave NW,31266,11th & M St NW,W21948,Member
+973,31624,North Capitol St & F St NW,31512,Neal St & Trinidad Ave NE,W20230,Casual
+382,31274,10th & G St NW,31242,18th St & Pennsylvania Ave NW,W20730,Member
+2063,31634,3rd & Tingey St SE,31114,18th St & Wyoming Ave NW,W22266,Casual
+528,31226,34th St & Wisconsin Ave NW,31225,C & O Canal & Wisconsin Ave NW,W20778,Member
+297,31119,14th & Belmont St NW,31103,16th & Harvard St NW,W21089,Member
+489,31111,10th & U St NW,31600,5th & K St NW,W23285,Member
+114,31101,14th & V St NW,31119,14th & Belmont St NW,W23303,Member
+332,31226,34th St & Wisconsin Ave NW,31225,C & O Canal & Wisconsin Ave NW,W22995,Casual
+933,31035,N Quincy St & Glebe Rd,31905,Kennebec St & 11th St N,W20416,Member
+1070,31200,Massachusetts Ave & Dupont Circle NW,31400,Georgia & New Hampshire Ave NW,W20980,Member
+433,31267,17th St & Massachusetts Ave NW,31600,5th & K St NW,W00672,Member
+366,31019,Wilson Blvd & N Edgewood St,31018,N Rhodes & 16th St N,W21156,Casual
+111,31018,N Rhodes & 16th St N,31051,Arlington Blvd & N Queen St,W20652,Member
+155,31089,Court House Metro / 15th & N Uhle St ,31016,Clarendon Blvd & Pierce St,W21602,Member
+1124,31114,18th St & Wyoming Ave NW,31523,Lincoln Rd & Seaton Pl NE/Harry Thomas Rec Center,W01145,Member
+507,31104,Adams Mill & Columbia Rd NW,31602,Park Rd & Holmead Pl NW,W01350,Member
+780,31104,Adams Mill & Columbia Rd NW,31406,14th & Upshur St NW,W20055,Casual
+291,31298,15th & M St NW,31282,16th & R St NW,W21341,Member
+944,31111,10th & U St NW,31106,Calvert & Biltmore St NW,W20074,Member
+384,31229,New Hampshire Ave & T St NW,31221,18th & M St NW,W22453,Member
+541,31281,8th & O St NW,31506,1st & Rhode Island Ave NW,W20466,Member
+290,31400,Georgia & New Hampshire Ave NW,31102,11th & Kenyon St NW,W21823,Casual
+1042,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31129,15th St & Pennsylvania Ave NW/Pershing Park,W01327,Member
+861,31201,15th & P St NW,31267,17th St & Massachusetts Ave NW,W20258,Member
+2224,31503,Florida Ave & R St NW,31245,7th & R St NW / Shaw Library,W00755,Member
+4167,31235,19th St & Constitution Ave NW,31249,Jefferson Memorial,W22118,Casual
+4190,31235,19th St & Constitution Ave NW,31249,Jefferson Memorial,W00185,Casual
+618,31229,New Hampshire Ave & T St NW,31212,21st & M St NW,W20063,Member
+1266,31109,7th & T St NW,31294,7th & E St SW,W21587,Casual
+195,31104,Adams Mill & Columbia Rd NW,31121,Calvert St & Woodley Pl NW,W22968,Member
+1659,31212,21st & M St NW,31030,Lee Hwy & N Adams St,W21030,Member
+1213,31204,20th & E St NW,31643,1st & D St SE,W22530,Member
+428,31229,New Hampshire Ave & T St NW,31212,21st & M St NW,W00800,Casual
+325,31201,15th & P St NW,31281,8th & O St NW,W22280,Member
+3875,31235,19th St & Constitution Ave NW,31249,Jefferson Memorial,W00345,Casual
+403,31227,13th St & New York Ave NW,31250,20th & L St NW,W01187,Casual
+588,31604,3rd & H St NW,31209,1st & N St  SE,W22870,Member
+745,31128,23rd & M St NW,31265,5th St & Massachusetts Ave NW,W23295,Member
+414,31104,Adams Mill & Columbia Rd NW,31107,Lamont & Mt Pleasant NW,W23353,Member
+287,31127,22nd & H St NW,31285,22nd & P ST NW,W23034,Casual
+239,31110,20th St & Florida Ave NW,31285,22nd & P ST NW,W23460,Member
+190,31239,Rhode Island & Connecticut Ave NW,31203,14th & Rhode Island Ave NW,W20758,Member
+791,31245,7th & R St NW / Shaw Library,31294,7th & E St SW,W23103,Member
+491,31625,3rd & G St SE,31607,13th & E St SE,W21142,Member
+657,31110,20th St & Florida Ave NW,31204,20th & E St NW,W01133,Casual
+609,31110,20th St & Florida Ave NW,31204,20th & E St NW,W22898,Casual
+2669,31271,Constitution Ave & 2nd St NW/DOL,31271,Constitution Ave & 2nd St NW/DOL,W22647,Casual
+559,31101,14th & V St NW,31103,16th & Harvard St NW,W00295,Member
+1337,31202,14th & R St NW,31617,Bladensburg Rd & Benning Rd NE,W00057,Member
+225,31268,12th & U St NW,31245,7th & R St NW / Shaw Library,W21046,Member
+572,31102,11th & Kenyon St NW,31268,12th & U St NW,W20285,Casual
+701,31129,15th St & Pennsylvania Ave NW/Pershing Park,31277,17th & G St NW,W01327,Member
+429,31265,5th St & Massachusetts Ave NW,31266,11th & M St NW,W00167,Member
+643,31265,5th St & Massachusetts Ave NW,31627,3rd & M St NE,W22697,Member
+581,31611,13th & H St NE,31616,3rd & H St NE,W22701,Member
+173,31221,18th & M St NW,31128,23rd & M St NW,W21360,Member
+2027,31111,10th & U St NW,31603,1st & M St NE,W23150,Member
+357,31023,Fairfax Dr & Wilson Blvd,31049,Utah St & 11th St N ,W01387,Member
+745,31053,Columbia Pike & S Courthouse Rd,31000,Eads St & 15th St S,W21522,Casual
+576,31022,Clarendon Metro / Wilson Blvd & N Highland St,31024,Virginia Square Metro / N Monroe St & 9th St N,W01483,Casual
+1419,31611,13th & H St NE,31102,11th & Kenyon St NW,W22650,Member
+774,31122,16th & Irving St NW,31286,11th & O St NW,W22737,Member
+380,31509,New Jersey Ave & R St NW,31600,5th & K St NW,W23324,Member
+322,31102,11th & Kenyon St NW,31123,14th & Girard St NW,W22604,Casual
+1348,31122,16th & Irving St NW,31506,1st & Rhode Island Ave NW,W22749,Casual
+1172,31101,14th & V St NW,31205,21st & I St NW,W00594,Member
+220,31621,4th & D St NW / Judiciary Square,31265,5th St & Massachusetts Ave NW,W22816,Member
+570,31277,17th & G St NW,31237,25th St & Pennsylvania Ave NW,W01327,Member
+711,31636,New Jersey Ave & N St NW/Dunbar HS,31523,Lincoln Rd & Seaton Pl NE/Harry Thomas Rec Center,W20553,Casual
+293,31245,7th & R St NW / Shaw Library,31600,5th & K St NW,W21046,Member
+274,31114,18th St & Wyoming Ave NW,31101,14th & V St NW,W21405,Member
+260,31114,18th St & Wyoming Ave NW,31101,14th & V St NW,W22266,Member
+647,31265,5th St & Massachusetts Ave NW,31229,New Hampshire Ave & T St NW,W23295,Member
+244,31603,1st & M St NE,31616,3rd & H St NE,W00606,Member
+787,31222,New York Ave & 15th St NW,31108,4th & M St SW,W21944,Casual
+1813,31275,New Hampshire Ave & 24th St NW,31294,7th & E St SW,W00853,Casual
+188,31009,Crystal Dr & 27th St S,31052,Potomac Ave & 35th St S,W21523,Member
+232,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31629,8th & East Capitol St NE,W00269,Member
+242,31202,14th & R St NW,31298,15th & M St NW,W22716,Member
+1175,31082,Eisenhower Ave & Mill Race Ln,31082,Eisenhower Ave & Mill Race Ln,W20687,Member
+572,31509,New Jersey Ave & R St NW,31278,18th & R St NW,W20486,Casual
+320,31101,14th & V St NW,31114,18th St & Wyoming Ave NW,W21434,Member
+993,31101,14th & V St NW,31014,Lynn & 19th St North,W00835,Member
+547,31229,New Hampshire Ave & T St NW,31286,11th & O St NW,W20389,Member
+2733,31321,15th St & Constitution Ave NW,31203,14th & Rhode Island Ave NW,W22493,Member
+794,31629,8th & East Capitol St NE,31505,Eckington Pl & Q St NE,W01150,Member
+792,31237,25th St & Pennsylvania Ave NW,31014,Lynn & 19th St North,W01327,Member
+302,31127,22nd & H St NW,31285,22nd & P ST NW,W01058,Casual
+818,31268,12th & U St NW,31268,12th & U St NW,W01129,Casual
+782,31268,12th & U St NW,31268,12th & U St NW,W20285,Casual
+508,31296,Columbia & Ontario Rd NW,31115,Columbia Rd & Georgia Ave NW,W00977,Member
+272,31102,11th & Kenyon St NW,31400,Georgia & New Hampshire Ave NW,W21823,Member
+681,31645,6th & K St NE,31503,Florida Ave & R St NW,W20439,Member
+3531,31251,12th & L St NW,31224,19th & L St NW,W00102,Casual
+3531,31251,12th & L St NW,31224,19th & L St NW,W21314,Casual
+467,31229,New Hampshire Ave & T St NW,31268,12th & U St NW,W20610,Member
+1817,31104,Adams Mill & Columbia Rd NW,31302,Wisconsin Ave & Newark St NW,W00972,Casual
+209,31604,3rd & H St NW,31624,North Capitol St & F St NW,W22397,Member
+1505,31321,15th St & Constitution Ave NW,31321,15th St & Constitution Ave NW,W01271,Casual
+1810,31104,Adams Mill & Columbia Rd NW,31302,Wisconsin Ave & Newark St NW,W21219,Casual
+2496,31321,15th St & Constitution Ave NW,31203,14th & Rhode Island Ave NW,W00039,Casual
+744,31254,15th & K St NW,31221,18th & M St NW,W21260,Member
+3380,31251,12th & L St NW,31224,19th & L St NW,W01233,Casual
+716,31216,14th St & New York Ave NW,31204,20th & E St NW,W00017,Casual
+653,31254,15th & K St NW,31221,18th & M St NW,W22793,Casual
+478,31101,14th & V St NW,31123,14th & Girard St NW,W22832,Member
+1450,31284,18th & C St NW,31204,20th & E St NW,W00173,Casual
+1573,31283,14th & L St NW,31283,14th & L St NW,W21126,Casual
+301,31250,20th & L St NW,31237,25th St & Pennsylvania Ave NW,W20345,Member
+794,31202,14th & R St NW,31202,14th & R St NW,W23093,Member
+448,31262,11th & F St NW,31600,5th & K St NW,W21361,Member
+810,31245,7th & R St NW / Shaw Library,31280,11th & S St NW,W00755,Member
+5338,31250,20th & L St NW,31250,20th & L St NW,W21309,Casual
+1304,31286,11th & O St NW,31615,6th & H St NE,W20389,Member
+542,31113,Columbia Rd & Belmont St NW,31401,14th St & Spring Rd NW,W21334,Member
+398,31254,15th & K St NW,31221,18th & M St NW,W21317,Casual
+857,31109,7th & T St NW,31627,3rd & M St NE,W22465,Casual
+1396,31268,12th & U St NW,31297,Virginia Ave & 25th St NW,W23251,Casual
+537,31241,Thomas Circle,31246,M St & Pennsylvania Ave NW,W20092,Member
+887,31503,Florida Ave & R St NW,31602,Park Rd & Holmead Pl NW,W20439,Member
+1327,31268,12th & U St NW,31297,Virginia Ave & 25th St NW,W00436,Casual
+5105,31250,20th & L St NW,31250,20th & L St NW,W01187,Casual
+5083,31250,20th & L St NW,31250,20th & L St NW,W22050,Casual
+540,31404,9th & Upshur St NW,31122,16th & Irving St NW,W23082,Member
+937,31109,7th & T St NW,31229,New Hampshire Ave & T St NW,W21473,Member
+1297,31284,18th & C St NW,31205,21st & I St NW,W20193,Casual
+4843,31250,20th & L St NW,31250,20th & L St NW,W23257,Casual
+272,31109,7th & T St NW,31109,7th & T St NW,W21003,Member
+4834,31250,20th & L St NW,31250,20th & L St NW,W21895,Casual
+170,31104,Adams Mill & Columbia Rd NW,31121,Calvert St & Woodley Pl NW,W21180,Member
+509,31124,14th & Irving St NW,31507,1st & Washington Hospital Center NW,W01034,Casual
+800,31111,10th & U St NW,31645,6th & K St NE,W20646,Member
+472,31503,Florida Ave & R St NW,31627,3rd & M St NE,W21928,Member
+898,32055,Woodmont Ave & Strathmore St,31319,Wisconsin Ave & Brandywine St NW,W23229,Member
+4682,31250,20th & L St NW,31250,20th & L St NW,W00641,Casual
+112,31223,Convention Center / 7th & M St NW,31266,11th & M St NW,W20613,Member
+4586,31250,20th & L St NW,31250,20th & L St NW,W21151,Casual
+4532,31250,20th & L St NW,31250,20th & L St NW,W00796,Casual
+18126,31261,21st St & Constitution Ave NW,31261,21st St & Constitution Ave NW,W21754,Casual
+2116,31261,21st St & Constitution Ave NW,31261,21st St & Constitution Ave NW,W22183,Casual
+3028,31129,15th St & Pennsylvania Ave NW/Pershing Park,31238,14th & G St NW,W20084,Casual
+330,31109,7th & T St NW,31600,5th & K St NW,W23489,Member
+3020,31129,15th St & Pennsylvania Ave NW/Pershing Park,31238,14th & G St NW,W20905,Casual
+332,31268,12th & U St NW,31126,11th & Girard St NW,W01129,Member
+2859,31129,15th St & Pennsylvania Ave NW/Pershing Park,31238,14th & G St NW,W01250,Casual
+1920,31261,21st St & Constitution Ave NW,31261,21st St & Constitution Ave NW,W23180,Casual
+1248,31016,Clarendon Blvd & Pierce St,31919,Carlin Springs Rd & N Thomas St,W00963,Member
+1783,31261,21st St & Constitution Ave NW,31261,21st St & Constitution Ave NW,W20090,Casual
+891,31319,Wisconsin Ave & Brandywine St NW,31112,Harvard St & Adams Mill Rd NW,W23124,Member
+299,31234,20th & O St NW / Dupont South,31275,New Hampshire Ave & 24th St NW,W23583,Member
+1357,31261,21st St & Constitution Ave NW,31261,21st St & Constitution Ave NW,W21338,Casual
+2086,31107,Lamont & Mt Pleasant NW,31107,Lamont & Mt Pleasant NW,W21829,Member
+243,31203,14th & Rhode Island Ave NW,31214,17th & Corcoran St NW,W21412,Member
+738,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31610,Eastern Market / 7th & North Carolina Ave SE,W20305,Casual
+285,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31610,Eastern Market / 7th & North Carolina Ave SE,W20024,Casual
+583,31307,3000 Connecticut Ave NW / National Zoo,31313,Connecticut Ave & Tilden St NW,W00595,Member
+790,31101,14th & V St NW,31604,3rd & H St NW,W20906,Casual
+1841,31202,14th & R St NW,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,W01404,Casual
+437,31202,14th & R St NW,31239,Rhode Island & Connecticut Ave NW,W20381,Member
+211,31258,Lincoln Memorial,31258,Lincoln Memorial,W00417,Member
+168,31280,11th & S St NW,31286,11th & O St NW,W01367,Member
+777,31313,Connecticut Ave & Tilden St NW,31302,Wisconsin Ave & Newark St NW,W00595,Member
+542,31275,New Hampshire Ave & 24th St NW,31214,17th & Corcoran St NW,W21044,Member
+504,31518,New York Ave & Hecht Ave NE,31615,6th & H St NE,W21826,Member
+1822,31212,21st & M St NW,31115,Columbia Rd & Georgia Ave NW,W00443,Member
+695,31608,8th & Eye St SE / Barracks Row,31616,3rd & H St NE,W01351,Member
+2336,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31129,15th St & Pennsylvania Ave NW/Pershing Park,W00176,Casual
+28373,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31129,15th St & Pennsylvania Ave NW/Pershing Park,W21092,Casual
+721,31286,11th & O St NW,31266,11th & M St NW,W23459,Casual
+349,31234,20th & O St NW / Dupont South,31203,14th & Rhode Island Ave NW,W20985,Member
+2241,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31129,15th St & Pennsylvania Ave NW/Pershing Park,W00537,Casual
+583,31280,11th & S St NW,31126,11th & Girard St NW,W00755,Member
+226,31101,14th & V St NW,31229,New Hampshire Ave & T St NW,W21869,Member
+401,31302,Wisconsin Ave & Newark St NW,31306,39th & Calvert St NW / Stoddert,W00595,Member
+130,31266,11th & M St NW,31223,Convention Center / 7th & M St NW,W00167,Member
+309,31201,15th & P St NW,31125,15th & W St NW,W23154,Member
+376,31609,Maine Ave & 7th St SW,31628,1st & K St SE,W00258,Member
+1185,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31213,17th & K St NW,W20422,Casual
+1132,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31213,17th & K St NW,W21120,Casual
+351,31268,12th & U St NW,31229,New Hampshire Ave & T St NW,W20610,Member
+853,31246,M St & Pennsylvania Ave NW,31600,5th & K St NW,W21673,Member
+592,31611,13th & H St NE,31601,19th & East Capitol St SE,W00040,Casual
+348,31119,14th & Belmont St NW,31602,Park Rd & Holmead Pl NW,W01375,Member
+371,31101,14th & V St NW,31200,Massachusetts Ave & Dupont Circle NW,W01400,Casual
+1023,31214,17th & Corcoran St NW,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W21044,Member
+1367,31231,14th & D St NW / Ronald Reagan Building,31606,Potomac & Pennsylvania Ave SE,W00146,Casual
+2149,31296,Columbia & Ontario Rd NW,31505,Eckington Pl & Q St NE,W23145,Casual
+1454,31296,Columbia & Ontario Rd NW,31272,Washington & Independence Ave SW/HHS,W20183,Casual
+479,31622,13th & D St NE,31626,15th St & Massachusetts Ave SE,W20854,Casual
+15814,31223,Convention Center / 7th & M St NW,31600,5th & K St NW,W00167,Member
+388,31280,11th & S St NW,31230,Metro Center / 12th & G St NW,W20624,Member
+297,31109,7th & T St NW,31506,1st & Rhode Island Ave NW,W21076,Member
+1516,31200,Massachusetts Ave & Dupont Circle NW,31302,Wisconsin Ave & Newark St NW,W22079,Member
+1121,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31214,17th & Corcoran St NW,W21721,Member
+75,31291,Vermont Ave & I St NW,31276,15th & L St NW,W00199,Member
+968,31250,20th & L St NW,31204,20th & E St NW,W01187,Casual
+304,31107,Lamont & Mt Pleasant NW,31401,14th St & Spring Rd NW,W21829,Member
+289,31281,8th & O St NW,31281,8th & O St NW,W22280,Member
+257,31296,Columbia & Ontario Rd NW,31200,Massachusetts Ave & Dupont Circle NW,W00684,Member
+427,31104,Adams Mill & Columbia Rd NW,31267,17th St & Massachusetts Ave NW,W21993,Member
+1458,31507,1st & Washington Hospital Center NW,31249,Jefferson Memorial,W23279,Member
+578,31254,15th & K St NW,31229,New Hampshire Ave & T St NW,W21098,Member
+522,31285,22nd & P ST NW,31280,11th & S St NW,W00130,Member
+695,31306,39th & Calvert St NW / Stoddert,31255,24th & N St NW,W00400,Member
+594,31035,N Quincy St & Glebe Rd,31050,Barton St & 10th St N,W22365,Casual
+737,31050,Barton St & 10th St N,31236,37th & O St NW / Georgetown University,W22899,Member
+288,31102,11th & Kenyon St NW,31120,10th & Florida Ave NW,W22646,Member
+138,31276,15th & L St NW,31291,Vermont Ave & I St NW,W00199,Member
+1155,31249,Jefferson Memorial,31008,12th & Army Navy Dr,W23279,Member
+5823,31214,17th & Corcoran St NW,31214,17th & Corcoran St NW,W22109,Member
+1443,31400,Georgia & New Hampshire Ave NW,31293,31st & Water St NW,W20980,Member
+1555,31231,14th & D St NW / Ronald Reagan Building,31249,Jefferson Memorial,W20858,Casual
+1534,31231,14th & D St NW / Ronald Reagan Building,31249,Jefferson Memorial,W00720,Casual
+259,31266,11th & M St NW,31254,15th & K St NW,W20728,Member
+471,31128,23rd & M St NW,31213,17th & K St NW,W22120,Member
+272,31640,Maryland Ave & E St NE,31623,Columbus Circle / Union Station,W22250,Member
+171,31600,5th & K St NW,31620,5th & F St NW,W20376,Member
+636,31312,Wisconsin Ave & O St NW,31229,New Hampshire Ave & T St NW,W20674,Member
+186,31105,14th & Harvard St NW,31101,14th & V St NW,W20522,Member
+1000,31401,14th St & Spring Rd NW,31274,10th & G St NW,W21829,Member
+2558,31616,3rd & H St NE,31258,Lincoln Memorial,W20219,Member
+2700,31622,13th & D St NE,31258,Lincoln Memorial,W20983,Member
+993,31014,Lynn & 19th St North,31211,Kennedy Center,W21859,Member
+983,31014,Lynn & 19th St North,31211,Kennedy Center,W21618,Member
+1276,32040,Friendship Blvd & Willard Ave,31307,3000 Connecticut Ave NW / National Zoo,W22587,Member
+413,31069,Pershing & N George Mason Dr,31023,Fairfax Dr & Wilson Blvd,W20478,Member
+93,31291,Vermont Ave & I St NW,31276,15th & L St NW,W00199,Member
+806,31267,17th St & Massachusetts Ave NW,31275,New Hampshire Ave & 24th St NW,W21313,Member
+1306,31249,Jefferson Memorial,31258,Lincoln Memorial,W00720,Casual
+1475,31107,Lamont & Mt Pleasant NW,31077,Iwo Jima Memorial/N Meade & 14th St N,W20943,Casual
+1303,31249,Jefferson Memorial,31258,Lincoln Memorial,W20858,Casual
+286,31285,22nd & P ST NW,31275,New Hampshire Ave & 24th St NW,W01058,Member
+818,31034,N Randolph St & Fairfax Dr,31015,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,W23123,Casual
+776,31617,Bladensburg Rd & Benning Rd NE,31623,Columbus Circle / Union Station,W22294,Member
+409,31113,Columbia Rd & Belmont St NW,31255,24th & N St NW,W22913,Member
+10338,31235,19th St & Constitution Ave NW,31288,4th St & Madison Dr NW,W00349,Member
+5227,31236,37th & O St NW / Georgetown University,31236,37th & O St NW / Georgetown University,W22680,Casual
+189,31919,Carlin Springs Rd & N Thomas St,31037,Ballston Metro / N Stuart & 9th St N,W20747,Member
+2738,31706,Fairfax Village,31606,Potomac & Pennsylvania Ave SE,W00634,Member
+1249,31024,Virginia Square Metro / N Monroe St & 9th St N,31904,East Falls Church Metro/Sycamore St & 19th St N,W01483,Member
+647,31107,Lamont & Mt Pleasant NW,31224,19th & L St NW,W23353,Member
+711,31600,5th & K St NW,31114,18th St & Wyoming Ave NW,W00672,Member
+6675,31606,Potomac & Pennsylvania Ave SE,31606,Potomac & Pennsylvania Ave SE,W22555,Casual
+786,31118,3rd & Elm St NW,31623,Columbus Circle / Union Station,W21173,Member
+1242,31406,14th & Upshur St NW,31321,15th St & Constitution Ave NW,W23483,Member
+375,31110,20th St & Florida Ave NW,31275,New Hampshire Ave & 24th St NW,W22332,Member
+825,31600,5th & K St NW,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W21046,Member
+386,31204,20th & E St NW,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W22898,Member
+312,31267,17th St & Massachusetts Ave NW,31276,15th & L St NW,W21480,Member
+5504,31283,14th & L St NW,31283,14th & L St NW,W21126,Casual
+5497,31283,14th & L St NW,31283,14th & L St NW,W22283,Casual
+332,31125,15th & W St NW,31200,Massachusetts Ave & Dupont Circle NW,W20574,Member
+632,31505,Eckington Pl & Q St NE,31518,New York Ave & Hecht Ave NE,W23145,Member
+793,31506,1st & Rhode Island Ave NW,31218,L'Enfant Plaza / 7th & C St SW,W22054,Member
+1346,31228,8th & H St NW,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W23383,Casual
+1308,31228,8th & H St NW,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W21682,Casual
+4171,31700,Good Hope & Naylor Rd SE,31221,18th & M St NW,W00063,Member
+419,31266,11th & M St NW,31624,North Capitol St & F St NW,W23368,Member
+1578,31276,15th & L St NW,31622,13th & D St NE,W23219,Member
+1143,31401,14th St & Spring Rd NW,31232,9th & F St NW / National Portrait Gallery,W20846,Member
+1399,31001,18th & Eads St.,31062,Roosevelt Island,W00135,Casual
+1773,31089,Court House Metro / 15th & N Uhle St ,31623,Columbus Circle / Union Station,W00266,Casual
+765,31603,1st & M St NE,31101,14th & V St NW,W21797,Member
+764,31505,Eckington Pl & Q St NE,31101,14th & V St NW,W22784,Member
+1282,31407,14th St & Colorado Ave NW,31297,Virginia Ave & 25th St NW,W23366,Member
+1221,31628,1st & K St SE,31201,15th & P St NW,W00258,Member
+920,31246,M St & Pennsylvania Ave NW,31101,14th & V St NW,W00234,Member
+823,31264,6th St & Indiana Ave NW,31257,22nd & I St NW / Foggy Bottom,W22152,Member
+486,31110,20th St & Florida Ave NW,31110,20th St & Florida Ave NW,W00387,Member
+232,31116,California St & Florida Ave NW,31200,Massachusetts Ave & Dupont Circle NW,W21273,Member
+579,31614,11th & H St NE,31520,24th & R St NE / National Arboretum,W22384,Member
+814,31236,37th & O St NW / Georgetown University,31014,Lynn & 19th St North,W22899,Member
+839,31218,L'Enfant Plaza / 7th & C St SW,31247,Jefferson Dr & 14th St SW,W20459,Member
+940,31603,1st & M St NE,31231,14th & D St NW / Ronald Reagan Building,W22642,Member
+1803,31504,10th & Monroe St NE,31208,M St & New Jersey Ave SE,W22745,Member
+424,31400,Georgia & New Hampshire Ave NW,31103,16th & Harvard St NW,W21823,Member
+749,31602,Park Rd & Holmead Pl NW,31274,10th & G St NW,W00966,Member
+638,31252,21st St & Pennsylvania Ave NW,31125,15th & W St NW,W20973,Member
+697,31215,Georgetown Harbor / 30th St NW,31917,N Lynn St & Fairfax Dr,W23220,Member
+6666,31820,Anacostia Park,31820,Anacostia Park,W20587,Member
+215,31286,11th & O St NW,31268,12th & U St NW,W00009,Member
+461,31626,15th St & Massachusetts Ave SE,31626,15th St & Massachusetts Ave SE,W22147,Member
+1245,31404,9th & Upshur St NW,31103,16th & Harvard St NW,W00447,Casual
+639,31614,11th & H St NE,31628,1st & K St SE,W21006,Member
+548,31506,1st & Rhode Island Ave NW,31125,15th & W St NW,W22749,Member
+1221,31643,1st & D St SE,31223,Convention Center / 7th & M St NW,W21502,Member
+233,31600,5th & K St NW,31263,10th & K St NW,W21361,Member
+589,31507,1st & Washington Hospital Center NW,31124,14th & Irving St NW,W23215,Casual
+844,31644,12th St & Pennsylvania Ave SE,31108,4th & M St SW,W00087,Member
+1012,31011,Crystal Dr & 23rd St S,31249,Jefferson Memorial,W22633,Member
+328,31119,14th & Belmont St NW,31280,11th & S St NW,W23045,Member
+848,31516,Rhode Island Ave Metro,31519,1st & O St NW,W21777,Member
+186,31906,Commonwealth Ave & Oak St,31098,King St Metro North / Cameron St,W22461,Member
+246,31124,14th & Irving St NW,31115,Columbia Rd & Georgia Ave NW,W20988,Member
+1241,31638,1st & H St NW,31293,31st & Water St NW,W21922,Member
+1423,31512,Neal St & Trinidad Ave NE,31223,Convention Center / 7th & M St NW,W21870,Member
+426,32039,Old Georgetown Rd & Southwick St,32027,Battery Ln & Trolley Trail,W23196,Member
+587,31917,N Lynn St & Fairfax Dr,31089,Court House Metro / 15th & N Uhle St ,W23330,Member
+266,31244,4th & E St SW,31108,4th & M St SW,W00376,Member
+507,31401,14th St & Spring Rd NW,31101,14th & V St NW,W21334,Member
+1716,31514,Hamlin & 7th St NE,31295,Potomac & M St NW,W20027,Casual
+598,31024,Virginia Square Metro / N Monroe St & 9th St N,31077,Iwo Jima Memorial/N Meade & 14th St N,W20441,Member
+793,31403,5th & Kennedy St NW,31502,John McCormack Dr & Michigan Ave NE,W22467,Member
+3684,31106,Calvert & Biltmore St NW,31229,New Hampshire Ave & T St NW,W22593,Member
+644,31642,New Jersey Ave & L St NW,31640,Maryland Ave & E St NE,W20722,Member
+277,31125,15th & W St NW,31200,Massachusetts Ave & Dupont Circle NW,W21616,Member
+710,31285,22nd & P ST NW,31119,14th & Belmont St NW,W23034,Member
+341,31302,Wisconsin Ave & Newark St NW,31308,39th & Veazey St NW,W22079,Member
+975,31626,15th St & Massachusetts Ave SE,31288,4th St & Madison Dr NW,W21049,Member
+435,31102,11th & Kenyon St NW,31109,7th & T St NW,W22650,Member
+1451,31623,Columbus Circle / Union Station,31237,25th St & Pennsylvania Ave NW,W23563,Member
+2520,31014,Lynn & 19th St North,31066,Columbia Pike & S Orme St,W01327,Member
+1417,31401,14th St & Spring Rd NW,31401,14th St & Spring Rd NW,W00714,Member
+707,31202,14th & R St NW,31637,North Capitol St & G Pl NE,W22022,Member
+448,31275,New Hampshire Ave & 24th St NW,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W21313,Member
+1344,31301,Ward Circle / American University,31200,Massachusetts Ave & Dupont Circle NW,W01398,Member
+1466,31614,11th & H St NE,31248,Smithsonian-National Mall / Jefferson Dr & 12th St SW,W21595,Casual
+457,31265,5th St & Massachusetts Ave NW,31623,Columbus Circle / Union Station,W22098,Member
+1553,31304,36th & Calvert St NW / Glover Park,31623,Columbus Circle / Union Station,W22975,Casual
+3828,31629,8th & East Capitol St NE,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,W21950,Casual
+1541,31606,Potomac & Pennsylvania Ave SE,31706,Fairfax Village,W00634,Member
+1319,31276,15th & L St NW,31258,Lincoln Memorial,W21039,Member
+1285,31276,15th & L St NW,31258,Lincoln Memorial,W20468,Member
+321,31299,Connecticut Ave & R St NW,31255,24th & N St NW,W00505,Member
+991,31626,15th St & Massachusetts Ave SE,31228,8th & H St NW,W01315,Member
+1286,31231,14th & D St NW / Ronald Reagan Building,31506,1st & Rhode Island Ave NW,W22642,Member
+3358,31820,Anacostia Park,31820,Anacostia Park,W23155,Member
+3326,31820,Anacostia Park,31820,Anacostia Park,W20676,Member
+925,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31204,20th & E St NW,W21313,Member
+212,31117,15th & Euclid St  NW,31116,California St & Florida Ave NW,W20997,Member
+2165,32082,Garland Ave & Walden Rd,32403,Baltimore Ave & Jefferson St,W23580,Member
+168,31310,Connecticut & Nebraska Ave NW,31318,Connecticut Ave & Yuma St NW,W21318,Member
+287,31248,Smithsonian-National Mall / Jefferson Dr & 12th St SW,31218,L'Enfant Plaza / 7th & C St SW,W00429,Member
+151,31103,16th & Harvard St NW,31104,Adams Mill & Columbia Rd NW,W21089,Member
+1168,31249,Jefferson Memorial,31624,North Capitol St & F St NW,W00345,Member
+450,31201,15th & P St NW,31116,California St & Florida Ave NW,W01132,Member
+303,31039,Wilson Blvd & N Quincy St,31920,Washington-Lee High School / N Stafford St & Generals Way,W22363,Member
+399,31119,14th & Belmont St NW,31245,7th & R St NW / Shaw Library,W23303,Member
+13053,31042,Market Square / King St & Royal St,31041,Prince St & Union St,W22424,Casual
+13006,31042,Market Square / King St & Royal St,31041,Prince St & Union St,W21706,Casual
+868,31412,3rd St & Riggs Rd NE,31405,Georgia Ave & Emerson St NW,W23382,Member
+337,31102,11th & Kenyon St NW,31109,7th & T St NW,W22508,Member
+381,31299,Connecticut Ave & R St NW,31128,23rd & M St NW,W23099,Member
+1265,31405,Georgia Ave & Emerson St NW,31232,9th & F St NW / National Portrait Gallery,W00620,Casual
+185,31218,L'Enfant Plaza / 7th & C St SW,31633,Independence Ave & L'Enfant Plaza SW/DOE,W21563,Member
+2160,32039,Old Georgetown Rd & Southwick St,31314,34th & Water St NW,W20699,Member
+10005,31638,1st & H St NW,31263,10th & K St NW,W01127,Member
+783,31108,4th & M St SW,31108,4th & M St SW,W00376,Casual
+409,31266,11th & M St NW,31624,North Capitol St & F St NW,W21647,Member
+826,31601,19th & East Capitol St SE,31271,Constitution Ave & 2nd St NW/DOL,W00208,Member
+835,31288,4th St & Madison Dr NW,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W21049,Member
+555,31104,Adams Mill & Columbia Rd NW,31246,M St & Pennsylvania Ave NW,W21089,Member
+852,31225,C & O Canal & Wisconsin Ave NW,31241,Thomas Circle,W22339,Member
+657,31523,Lincoln Rd & Seaton Pl NE/Harry Thomas Rec Center,31278,18th & R St NW,W00335,Member
+374,31919,Carlin Springs Rd & N Thomas St,31023,Fairfax Dr & Wilson Blvd,W22603,Member
+252,31245,7th & R St NW / Shaw Library,31223,Convention Center / 7th & M St NW,W23303,Member
+1341,31607,13th & E St SE,31610,Eastern Market / 7th & North Carolina Ave SE,W21844,Member
+7455,31321,15th St & Constitution Ave NW,31238,14th & G St NW,W23213,Casual
+7434,31321,15th St & Constitution Ave NW,31238,14th & G St NW,W23483,Casual
+830,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31204,20th & E St NW,W23383,Casual
+822,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,31204,20th & E St NW,W21682,Casual
+1722,31248,Smithsonian-National Mall / Jefferson Dr & 12th St SW,31215,Georgetown Harbor / 30th St NW,W21595,Casual
+743,31630,15th & East Capitol St NE,31645,6th & K St NE,W20169,Member
+1138,31630,15th & East Capitol St NE,31512,Neal St & Trinidad Ave NE,W00562,Member
+402,31642,New Jersey Ave & L St NW,31243,4th & C St SW,W21774,Member
+1056,31278,18th & R St NW,31028,N Veitch & Key Blvd,W22418,Member
+438,31414,Georgia Ave & Piney Branch Rd NW,31408,Takoma Metro,W01349,Casual
+1561,31213,17th & K St NW,31213,17th & K St NW,W20569,Casual
+1222,31035,N Quincy St & Glebe Rd,31215,Georgetown Harbor / 30th St NW,W00840,Member
+314,31121,Calvert St & Woodley Pl NW,31200,Massachusetts Ave & Dupont Circle NW,W22875,Member
+689,31252,21st St & Pennsylvania Ave NW,31288,4th St & Madison Dr NW,W00499,Member
+644,31630,15th & East Capitol St NE,31623,Columbus Circle / Union Station,W23020,Member
+534,31711,Deanwood Rec Center,31703,Minnesota Ave Metro/DOES,W22681,Member
+176,31080,Lee Hwy & N Scott St,31027,Key Blvd & N Quinn St,W23491,Member
+396,31612,D St & Maryland Ave NE,31270,8th & D St NW,W01082,Member
+382,31040,Fairfax Dr & Kenmore St,31919,Carlin Springs Rd & N Thomas St,W20398,Member
+483,31105,14th & Harvard St NW,31116,California St & Florida Ave NW,W21375,Casual
+279,31401,14th St & Spring Rd NW,31602,Park Rd & Holmead Pl NW,W20157,Member
+307,31280,11th & S St NW,31214,17th & Corcoran St NW,W00130,Member
+416,31114,18th St & Wyoming Ave NW,31128,23rd & M St NW,W00434,Member
+301,31280,11th & S St NW,31214,17th & Corcoran St NW,W21058,Member
+880,31519,1st & O St NW,31227,13th St & New York Ave NW,W21777,Member
+4021,31314,34th & Water St NW,31227,13th St & New York Ave NW,W00098,Member
+680,31266,11th & M St NW,31257,22nd & I St NW / Foggy Bottom,W23274,Member
+557,31919,Carlin Springs Rd & N Thomas St,31040,Fairfax Dr & Kenmore St,W21242,Casual
+455,31102,11th & Kenyon St NW,31202,14th & R St NW,W22056,Member
+892,31276,15th & L St NW,31602,Park Rd & Holmead Pl NW,W00199,Member
+217,31077,Iwo Jima Memorial/N Meade & 14th St N,31014,Lynn & 19th St North,W20753,Member
+118,31218,L'Enfant Plaza / 7th & C St SW,31633,Independence Ave & L'Enfant Plaza SW/DOE,W00429,Member
+903,31107,Lamont & Mt Pleasant NW,31215,Georgetown Harbor / 30th St NW,W01214,Member
+986,31114,18th St & Wyoming Ave NW,31230,Metro Center / 12th & G St NW,W21434,Member
+712,31518,New York Ave & Hecht Ave NE,31505,Eckington Pl & Q St NE,W23145,Member
+274,31604,3rd & H St NW,31623,Columbus Circle / Union Station,W22967,Member
+374,31500,4th & W St NE,31603,1st & M St NE,W22766,Member
+2698,31517,Union Market/6th St & Neal Pl NE,31512,Neal St & Trinidad Ave NE,W22634,Member
+262,31203,14th & Rhode Island Ave NW,31223,Convention Center / 7th & M St NW,W00131,Member
+380,31298,15th & M St NW,31101,14th & V St NW,W22609,Member
+258,31642,New Jersey Ave & L St NW,31228,8th & H St NW,W22859,Member
+810,31306,39th & Calvert St NW / Stoddert,31200,Massachusetts Ave & Dupont Circle NW,W00595,Member
+372,31282,16th & R St NW,31224,19th & L St NW,W22455,Member
+512,31248,Smithsonian-National Mall / Jefferson Dr & 12th St SW,31258,Lincoln Memorial,W00666,Casual
+596,31248,Smithsonian-National Mall / Jefferson Dr & 12th St SW,31609,Maine Ave & 7th St SW,W20724,Member
+5626,31128,23rd & M St NW,31128,23rd & M St NW,W21360,Casual
+5595,31128,23rd & M St NW,31128,23rd & M St NW,W01347,Casual
+5586,31128,23rd & M St NW,31128,23rd & M St NW,W23099,Casual
+498,31265,5th St & Massachusetts Ave NW,31603,1st & M St NE,W22816,Member
+578,31609,Maine Ave & 7th St SW,31208,M St & New Jersey Ave SE,W20833,Member
+3507,31305,Connecticut Ave & Newark St NW / Cleveland Park,31245,7th & R St NW / Shaw Library,W01405,Member
+2153,31203,14th & Rhode Island Ave NW,31602,Park Rd & Holmead Pl NW,W22493,Member
+452,31919,Carlin Springs Rd & N Thomas St,31024,Virginia Square Metro / N Monroe St & 9th St N,W20398,Member
+1823,31268,12th & U St NW,31262,11th & F St NW,W21144,Member
+621,31509,New Jersey Ave & R St NW,31227,13th St & New York Ave NW,W20419,Member
+450,31266,11th & M St NW,31128,23rd & M St NW,W20613,Member
+510,31101,14th & V St NW,31128,23rd & M St NW,W23201,Member
+249,31919,Carlin Springs Rd & N Thomas St,31038,Glebe Rd & 11th St N,W00963,Member
+444,31110,20th St & Florida Ave NW,31203,14th & Rhode Island Ave NW,W22514,Casual
+280,31008,12th & Army Navy Dr,31011,Crystal Dr & 23rd St S,W23279,Member
+2079,31121,Calvert St & Woodley Pl NW,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,W20643,Casual
+370,31611,13th & H St NE,31616,3rd & H St NE,W21865,Member
+428,31269,3rd St & Pennsylvania Ave SE,31626,15th St & Massachusetts Ave SE,W01081,Member
+372,31246,M St & Pennsylvania Ave NW,31224,19th & L St NW,W21089,Member
+710,31215,Georgetown Harbor / 30th St NW,31314,34th & Water St NW,W21595,Casual
+1692,31401,14th St & Spring Rd NW,31292,22nd St & Constitution Ave NW,W00714,Casual
+694,31505,Eckington Pl & Q St NE,31600,5th & K St NW,W23145,Member
+1395,31028,N Veitch & Key Blvd,31243,4th & C St SW,W22418,Member
+629,31291,Vermont Ave & I St NW,31261,21st St & Constitution Ave NW,W22087,Member
+651,31505,Eckington Pl & Q St NE,31600,5th & K St NW,W01289,Casual
+596,31291,Vermont Ave & I St NW,31261,21st St & Constitution Ave NW,W22412,Member
+309,31631,8th & F St NE,31639,2nd & G St NE,W20930,Member
+678,31244,4th & E St SW,31639,2nd & G St NE,W21798,Member
+422,31103,16th & Harvard St NW,31201,15th & P St NW,W21304,Member
+1192,31013,Eads & 22nd St S,31011,Crystal Dr & 23rd St S,W20123,Member
+1127,31643,1st & D St SE,31623,Columbus Circle / Union Station,W22495,Member
+539,31230,Metro Center / 12th & G St NW,31600,5th & K St NW,W22369,Member
+546,31268,12th & U St NW,31200,Massachusetts Ave & Dupont Circle NW,W21679,Member
+605,31207,Georgia Ave and Fairmont St NW,31114,18th St & Wyoming Ave NW,W20361,Member
+2332,31202,14th & R St NW,31202,14th & R St NW,W23093,Member
+2024,31308,39th & Veazey St NW,31228,8th & H St NW,W22079,Member
+170,31241,Thomas Circle,31238,14th & G St NW,W22339,Member
+1635,31261,21st St & Constitution Ave NW,31249,Jefferson Memorial,W22183,Member
+2109,31644,12th St & Pennsylvania Ave SE,31644,12th St & Pennsylvania Ave SE,W22572,Member
+1610,31261,21st St & Constitution Ave NW,31249,Jefferson Memorial,W20090,Member
+589,31229,New Hampshire Ave & T St NW,31312,Wisconsin Ave & O St NW,W22931,Member
+251,31113,Columbia Rd & Belmont St NW,31229,New Hampshire Ave & T St NW,W20399,Member
+510,31212,21st & M St NW,31261,21st St & Constitution Ave NW,W20063,Member
+505,31212,21st & M St NW,31261,21st St & Constitution Ave NW,W00800,Member
+203,31920,Washington-Lee High School / N Stafford St & Generals Way,31034,N Randolph St & Fairfax Dr,W23476,Member
+648,31077,Iwo Jima Memorial/N Meade & 14th St N,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W20943,Member
+558,31642,New Jersey Ave & L St NW,31519,1st & O St NW,W20819,Member
+578,31077,Iwo Jima Memorial/N Meade & 14th St N,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W22169,Member
+198,31903,Royal & Wilkes St,31042,Market Square / King St & Royal St,W23293,Member
+279,31285,22nd & P ST NW,31224,19th & L St NW,W20698,Member
+222,31297,Virginia Ave & 25th St NW,31225,C & O Canal & Wisconsin Ave NW,W00436,Member
+719,31295,Potomac & M St NW,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W20027,Member
+585,31615,6th & H St NE,31288,4th St & Madison Dr NW,W20764,Member
+210,31201,15th & P St NW,31239,Rhode Island & Connecticut Ave NW,W00555,Member
+1738,31632,15th & F St NE,31638,1st & H St NW,W23063,Member
+834,31262,11th & F St NW,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W20765,Casual
+896,31508,Gallaudet / 8th St & Florida Ave NE,31266,11th & M St NW,W21856,Member
+797,31229,New Hampshire Ave & T St NW,31286,11th & O St NW,W20746,Member
+1430,31027,Key Blvd & N Quinn St,31110,20th St & Florida Ave NW,W20870,Member
+881,31263,10th & K St NW,31271,Constitution Ave & 2nd St NW/DOL,W21081,Casual
+765,31229,New Hampshire Ave & T St NW,31286,11th & O St NW,W21098,Member
+752,31203,14th & Rhode Island Ave NW,31100,19th St & Pennsylvania Ave NW,W00200,Member
+525,31508,Gallaudet / 8th St & Florida Ave NE,31520,24th & R St NE / National Arboretum,W20602,Member
+104,31123,14th & Girard St NW,31124,14th & Irving St NW,W21814,Member
+1437,31283,14th & L St NW,31275,New Hampshire Ave & 24th St NW,W21020,Member
+233,31117,15th & Euclid St  NW,31107,Lamont & Mt Pleasant NW,W00112,Member
+446,31278,18th & R St NW,31128,23rd & M St NW,W21253,Member
+1400,31628,1st & K St SE,31503,Florida Ave & R St NW,W21006,Member
+372,31121,Calvert St & Woodley Pl NW,31110,20th St & Florida Ave NW,W22968,Member
+138,32025,Carroll & Westmoreland Ave,32026,Carroll & Ethan Allen Ave,W23117,Member
+812,31102,11th & Kenyon St NW,31600,5th & K St NW,W20707,Member
+410,31280,11th & S St NW,31267,17th St & Massachusetts Ave NW,W23045,Member
+310,31269,3rd St & Pennsylvania Ave SE,31623,Columbus Circle / Union Station,W00646,Casual
+811,31631,8th & F St NE,31248,Smithsonian-National Mall / Jefferson Dr & 12th St SW,W21967,Casual
+1122,31247,Jefferson Dr & 14th St SW,31295,Potomac & M St NW,W22003,Member
+994,31250,20th & L St NW,31638,1st & H St NW,W23257,Member
+328,31257,22nd & I St NW / Foggy Bottom,31237,25th St & Pennsylvania Ave NW,W22622,Member
+552,31118,3rd & Elm St NW,31101,14th & V St NW,W23163,Member
+329,31229,New Hampshire Ave & T St NW,31114,18th St & Wyoming Ave NW,W22593,Member
+641,31101,14th & V St NW,31401,14th St & Spring Rd NW,W00097,Member
+476,31251,12th & L St NW,31205,21st & I St NW,W00928,Member
+1232,31113,Columbia Rd & Belmont St NW,31288,4th St & Madison Dr NW,W23584,Member
+557,31201,15th & P St NW,31103,16th & Harvard St NW,W21304,Member
+504,31615,6th & H St NE,31271,Constitution Ave & 2nd St NW/DOL,W01240,Member
+812,31278,18th & R St NW,31270,8th & D St NW,W01011,Member
+844,31208,M St & New Jersey Ave SE,31249,Jefferson Memorial,W21924,Member
+402,31108,4th & M St SW,31209,1st & N St  SE,W20616,Member
+474,31265,5th St & Massachusetts Ave NW,31263,10th & K St NW,W23105,Casual
+469,31265,5th St & Massachusetts Ave NW,31263,10th & K St NW,W22067,Casual
+557,31504,10th & Monroe St NE,31627,3rd & M St NE,W23411,Member
+722,31217,USDA / 12th & C St SW,31265,5th St & Massachusetts Ave NW,W21282,Member
+265,31619,Lincoln Park / 13th & East Capitol St NE ,31618,4th & East Capitol St NE,W23038,Member
+419,31203,14th & Rhode Island Ave NW,31119,14th & Belmont St NW,W22514,Member
+440,31616,3rd & H St NE,31611,13th & H St NE,W22701,Member
+785,31500,4th & W St NE,31517,Union Market/6th St & Neal Pl NE,W20211,Member
+773,31500,4th & W St NE,31517,Union Market/6th St & Neal Pl NE,W23089,Member
+389,31102,11th & Kenyon St NW,31119,14th & Belmont St NW,W21129,Member
+653,31204,20th & E St NW,31248,Smithsonian-National Mall / Jefferson Dr & 12th St SW,W01187,Member
+970,31511,12th & Irving St NE,31111,10th & U St NW,W00886,Member
+2280,31204,20th & E St NW,31077,Iwo Jima Memorial/N Meade & 14th St N,W23383,Casual
+2286,31204,20th & E St NW,31077,Iwo Jima Memorial/N Meade & 14th St N,W21682,Casual
+756,31619,Lincoln Park / 13th & East Capitol St NE ,31270,8th & D St NW,W21249,Member
+924,31247,Jefferson Dr & 14th St SW,31640,Maryland Ave & E St NE,W21780,Member
+223,31000,Eads St & 15th St S,31013,Eads & 22nd St S,W21522,Member
+472,31113,Columbia Rd & Belmont St NW,31280,11th & S St NW,W22120,Member
+2506,31640,Maryland Ave & E St NE,31640,Maryland Ave & E St NE,W00245,Member
+791,31262,11th & F St NW,31265,5th St & Massachusetts Ave NW,W21144,Member
+929,31235,19th St & Constitution Ave NW,31229,New Hampshire Ave & T St NW,W00341,Casual
+182,31042,Market Square / King St & Royal St,31903,Royal & Wilkes St,W23293,Member
+788,31004,Aurora Hills Community Ctr/18th & Hayes St,31916,Potomac & Swann Ave,W23331,Member
+705,31269,3rd St & Pennsylvania Ave SE,31624,North Capitol St & F St NW,W22291,Casual
+391,31109,7th & T St NW,31228,8th & H St NW,W22508,Member
+442,31117,15th & Euclid St  NW,31101,14th & V St NW,W22708,Member
+1012,31286,11th & O St NW,31289,Henry Bacon Dr & Lincoln Memorial Circle NW,W22737,Member
+480,31214,17th & Corcoran St NW,31238,14th & G St NW,W00130,Member
+1193,31117,15th & Euclid St  NW,31233,17th & K St NW / Farragut Square,W20121,Casual
+1663,31249,Jefferson Memorial,31626,15th St & Massachusetts Ave SE,W22741,Member
+933,31271,Constitution Ave & 2nd St NW/DOL,31235,19th St & Constitution Ave NW,W21081,Member
+4265,31129,15th St & Pennsylvania Ave NW/Pershing Park,31129,15th St & Pennsylvania Ave NW/Pershing Park,W00176,Casual
+263,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31607,13th & E St SE,W21950,Member
+4214,31129,15th St & Pennsylvania Ave NW/Pershing Park,31129,15th St & Pennsylvania Ave NW/Pershing Park,W00614,Casual
+647,31053,Columbia Pike & S Courthouse Rd,31060,S Arlington Mill Dr & Campbell Ave,W21110,Member
+507,31123,14th & Girard St NW,31286,11th & O St NW,W22832,Member
+725,31263,10th & K St NW,31200,Massachusetts Ave & Dupont Circle NW,W23105,Casual
